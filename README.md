@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushjainsparsh&show_icons=true&locale=en" alt="ayushjainsparsh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushjainsparsh&" alt="ayushjainsparsh" /></p>
+
+[![An image of @ayushjainsparsh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushjainsparsh)](https://holopin.io/@ayushjainsparsh)
