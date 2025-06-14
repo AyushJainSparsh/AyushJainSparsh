@@ -33,5 +33,3 @@
 
 [![An image of @ayushjainsparsh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushjainsparsh)](https://holopin.io/@ayushjainsparsh)
 
-Cisco Badges
-<p><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="151bf270-d816-4fe3-9fb4-f9f34dd89129" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></p>
